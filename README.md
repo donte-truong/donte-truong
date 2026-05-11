@@ -1,11 +1,11 @@
 <!-- Profile README for github.com/donte-truong -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Donte%20Truong&fontAlign=50&fontAlignY=38&desc=Full-stack%20builder%20for%20data-heavy%20products%20and%20interactive%20interfaces&descAlign=50&descAlignY=58&animation=fadeIn&theme=tokyonight" alt="Donte Truong banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Donte%20Truong&fontAlign=50&fontAlignY=38&desc=CS%20%2b%20ECE%20@%20Cornell%20Engineering&descAlign=50&descAlignY=58&animation=fadeIn&theme=tokyonight" alt="Donte Truong banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&vCenter=true&width=940&lines=TypeScript+%2B+Python+across+bioinformatics%2C+telemetry%2C+fintech%2C+and+product+systems;I+like+turning+messy+inputs+into+clear%2C+interactive+interfaces;Dashboards%2C+data+pipelines%2C+LLM-assisted+workflows%2C+and+side+projects" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&vCenter=true&width=940&lines=TypeScript+%2B+Python+across+bioinformatics%2C+telemetry%2C+fintech%2C+and+product+systems;I+turn+messy+inputs+into+clear%2C+interactive+interfaces;Dashboards%2C+data+pipelines%2C+LLM-assisted+workflows%2C+and+side+projects" alt="Typing intro" />
 </p>
 
 <p align="center">
