@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&vCenter=true&width=940&lines=TypeScript+%2B+Python+across+bioinformatics%2C+telemetry%2C+fintech%2C+and+product+systems;I+turn+messy+inputs+into+clear%2C+interactive+interfaces;Dashboards%2C+data+pipelines%2C+LLM-assisted+workflows%2C+and+side+projects" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&vCenter=true&width=940&lines=Projects+across+bioinformatics%2C+telemetry%2C+fintech%2C+and+product+systems;I+turn+messy+inputs+into+clear%2C+interactive+interfaces;Dashboards%2C+data+pipelines%2C+LLM-assisted+workflows%2C+and+side+projects" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -26,12 +26,7 @@
 Hi, I'm Donte!
 
 I build full-stack software that sits at the intersection of data, analysis, and polished UI.  
-Recent work spans bioinformatics, racing telemetry, quantitative finance, social cooking systems, puzzle solving, and game-like experiences.
-
-A few things I enjoy building:
-- systems that turn raw input into structured output
-- dashboards, visualizations, and interactive workflows
-- products that combine technical depth with approachable UX
+Recent work spans bioinformatics, racing telemetry, fintech, social cooking systems, puzzle solving, and game-like experiences.
 
 ## Featured projects
 
