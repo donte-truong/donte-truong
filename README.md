@@ -23,7 +23,7 @@
 
 ## About me
 
-👋 I'm Donte.
+Hi, I'm Donte!
 
 I build full-stack software that sits at the intersection of data, analysis, and polished UI.  
 Recent work spans bioinformatics, racing telemetry, quantitative finance, social cooking systems, puzzle solving, and game-like experiences.
