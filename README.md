@@ -194,7 +194,7 @@ docker compose up --build
 </p>
 
 <p align="center">
-  <i>Thanks for stopping by — I like building things that turn noisy inputs into useful interfaces.</i><br/>
-  <sub>Code stuff. Break stuff. Build it better.</sub>
+  <i>Thanks for stopping by - I build things that turn noisy inputs into useful interfaces.</i><br/>
+  <sub>Code stuff. Break stuff. Fix it sometimes.</sub>
 </p>
 
