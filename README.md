@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&vCenter=true&width=940&lines=I+write+code+sometimes;Check+out+my+work" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&vCenter=true&width=940&lines=I+write+code+sometimes%2E;Check+out+my+work%21" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ docker compose up --build
 </p>
 
 <p align="center">
-  <i>Thanks for stopping by - I build things that turn noisy inputs into useful interfaces.</i><br/>
+  <i>Thanks for stopping by! I'll build anything that makes life easier.</i><br/>
   <sub>Code stuff. Break stuff. Fix it sometimes.</sub>
 </p>
 
