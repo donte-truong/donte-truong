@@ -24,7 +24,8 @@
 
 Hi, I'm Donte!
 
-I'm a CS, Electrical and Computer Engineering student that tries to turn complicated problems into slightly less complicated software.
+I'm a CS, Electrical and Computer Engineering sophomore that tries to turn complicated problems into slightly less complicated software.
+
 My current focus is helping to build electric cars at Cornell. I build across our EV stack, but I'm mostly interested in projects that make life a little easier, or at least more interesting.
 
 <details>
