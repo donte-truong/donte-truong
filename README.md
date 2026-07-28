@@ -5,14 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&vCenter=true&width=940&lines=I+write+code+sometimes%2E;Check+out+my+work%21" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&vCenter=true&width=940&lines=I+write+code+sometimes%2E;Check+out+my+work+below%21" alt="Typing intro" />
 </p>
 
 <p align="center">
   <a href="https://github.com/donte-truong"><img src="https://img.shields.io/badge/GitHub-donte--truong-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/donte-truong"><img src="https://img.shields.io/badge/LinkedIn-Donte%20Truong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Location-Dallas%2C%20TX-1f6feb?style=for-the-badge" alt="Location Dallas TX" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Heavy%20Full--Stack%20Apps-6f42c1?style=for-the-badge" alt="Focus" />
 </p>
 
 <!-- Optional hero GIF slot
@@ -25,7 +24,7 @@
 
 Hi, I'm Donte!
 
-I code sometimes.
+I'm a CS, Electrical, and Computer Engineering student at Cornell. 
 
 <details>
   <summary><strong>Quick start snippets</strong></summary>
@@ -51,13 +50,6 @@ PYTHONPATH=packages/db/src python3 -m cookiful_db.scripts.doctor
 PYTHONPATH=packages/db/src python3 -m cookiful_db.scripts.bootstrap_local --limit 1000 --commit-every 100
 ```
 
-### Pairs Trading Web App
-```bash
-git clone https://github.com/donte-truong/pairs-finder-and-trading.git
-cd pairs-finder-and-trading
-docker-compose up --build
-```
-
 ### Race Engineer Dashboard
 ```bash
 git clone https://github.com/cornellev/RaceEngineerDashboard.git
@@ -70,12 +62,13 @@ docker compose up --build
 <details>
   <summary><strong>Other builds and experiments</strong></summary>
 
+- [Jane Street Puzzles](https://github.com/donte-truong/jane-street-puzzles-2020) — Jane Street puzzle solutions
 - [3Dash](https://github.com/donte-truong/3Dash) — Python-based 3D game experiment
 - [advent-of-code-2020](https://github.com/donte-truong/advent-of-code-2020) — Advent of Code puzzle solutions
+- [pairs-finder-and-trading](https://github.com/donte-truong/pairs-finder-and-trading) — Pairs trading web app
 - [word-modifier](https://github.com/donte-truong/word-modifier) — word utilities for alphabetizing, stacking, and transformations
 - [appointment-planner](https://github.com/donte-truong/appointment-planner) — appointment scheduling practice project
 - [to-kill-a-blocking-bird](https://github.com/donte-truong/to-kill-a-blocking-bird) — early HTML/static-web experiment
-- [github-slideshow](https://github.com/donte-truong/github-slideshow) — GitHub/Jekyll training repository
 </details>
 
 ## GitHub stats
@@ -92,7 +85,6 @@ docker compose up --build
 </p>
 
 <p align="center">
-  <i>Thanks for stopping by! I'll build anything that makes life easier.</i><br/>
-  <sub>Code stuff. Break stuff. Fix it sometimes.</sub>
+  <i>Thanks for stopping by! I'll help build anything that makes life easier.</i><br/>
 </p>
 
