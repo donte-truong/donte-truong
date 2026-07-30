@@ -73,12 +73,6 @@ docker compose up --build
 - [to-kill-a-blocking-bird](https://github.com/donte-truong/to-kill-a-blocking-bird) — early HTML/static-web experiment
 </details>
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=donte-truong&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
 ## Connect
 
 <p>
